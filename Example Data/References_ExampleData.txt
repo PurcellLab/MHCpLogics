@@ -1,0 +1,9 @@
+*Peptide data references* 
+If you use the peptide data (shared via Example Data), please cite:
+
+1) Jappe, E.C., Garde, C., Ramarathinam, S.H., Passantino, E., Illing, P.T., Mifsud, N.A., Trolle, T., Kringelum, J.V., Croft, N.P. and Purcell, A.W. (2020) Thermostability profiling of MHC-bound peptides: a new dimension in immunopeptidomics and aid for immunotherapy design. Nature Communications, 11, 6305.
+2) Shahbazy, M., Ramarathinam, S.H., Illing, P.T., Jappe, E.C., Faridi, P., Croft, N.P. and Purcell, A.W. (2023) Benchmarking Bioinformatics Pipelines in Data-Independent Acquisition Mass Spectrometry for Immunopeptidomics. Molecular & Cellular Proteomics, 22, 100515.
+3) Schittenhelm, R.B., Dudek, N.L., Croft, N.P., Ramarathinam, S.H. and Purcell, A.W. (2014) A comprehensive analysis of constitutive naturally processed and presented HLA-C*04:01 (Cw4) – specific peptides. Tissue Antigens, 83, 174-179.
+4) Illing, P.T., Vivian, J.P., Dudek, N.L., Kostenko, L., Chen, Z., Bharadwaj, M., Miles, J.J., Kjer-Nielsen, L., Gras, S., Williamson, N.A. et al. (2012) Immune self-reactivity triggered by drug-modified HLA-peptide repertoire. Nature, 486, 554-558.
+5) Illing, P.T., Pymm, P., Croft, N.P., Hilton, H.G., Jojic, V., Han, A.S., Mendoza, J.L., Mifsud, N.A., Dudek, N.L., McCluskey, J. et al. (2018) HLA-B57 micropolymorphism defines the sequence and conformational breadth of the immunopeptidome. Nature Communications, 9, 4693.
+6) Faridi, P., Woods, K., Ostrouska, S., Deceneux, C., Aranha, R., Duscharla, D., Wong, S.Q., Chen, W., Ramarathinam, S.H., Lim Kam Sian, T.C.C. et al. (2020) Spliced Peptides and Cytokine-Driven Changes in the Immunopeptidome of Melanoma. Cancer Immunology Research, 8, 1322-1334.
