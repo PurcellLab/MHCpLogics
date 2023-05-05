@@ -30,7 +30,7 @@ Please refer to the Tutorial file "Tutorial_MHCpLogics_ver1.0_052023.pdf"
 PRIDE Data repository: 
 
 The peptide datasets as HLA-A*02:01 (PRIDE accession code: PXD017824 and PXD034429) [ref. 1,2], HLA-B*57:01 (PXD034429) [ref. 2], and HLA-C*04:01 [ref. 2,3]. 
-Two datasets of HLA-B*57:01 immunopeptidomes from cells cultured with or without abacavir (ABC) drug. No PRIDE repository [ref. 4]. 
+Two datasets of HLA-B*57:01 immunopeptidomes from cells cultured with or without abacavir (ABC) drug without PRIDE repository [ref. 4]. 
 Micro-ploymorphism dataset: HLA-B*57:01 (PXD008570), -B*57:03 (PXD008571), and -B*58:01 (PXD008572) immunopeptidomes [ref. 5]. 
 LM-MEL-33 dataset (PXD014397) consisting of HLA-bound peptides isolated from a Melanoma cancer cell line [ref. 6].
 
