@@ -27,7 +27,7 @@ Mohammad Shahbazy, Sri H. Ramarathinam, Chen Li, Patricia T. Illing, Pouya Farid
 Please refer to the Tutorial file "Tutorial_MHCpLogics_ver1.0_052023.pdf"
 
 *Peptide data references* 
-If you use the peptide data (shared via Example Data), please cite:
+The peptide datasets provided as examples showcasing the usage of MHCpLogics are from the following publications:
 
 1) Jappe, E.C., Garde, C., Ramarathinam, S.H., Passantino, E., Illing, P.T., Mifsud, N.A., Trolle, T., Kringelum, J.V., Croft, N.P. and Purcell, A.W. (2020) Thermostability profiling of MHC-bound peptides: a new dimension in immunopeptidomics and aid for immunotherapy design. Nature Communications, 11, 6305.
 2) Shahbazy, M., Ramarathinam, S.H., Illing, P.T., Jappe, E.C., Faridi, P., Croft, N.P. and Purcell, A.W. (2023) Benchmarking Bioinformatics Pipelines in Data-Independent Acquisition Mass Spectrometry for Immunopeptidomics. Molecular & Cellular Proteomics, 22, 100515.
