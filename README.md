@@ -9,11 +9,12 @@ The major histocompatibility complex (MHC) encodes a range of immune response ge
 *Contact*
 
 For technical support or any question, please send an email to the following developers:
-mohammad.shahbazy@monash.edu
 
-nathan.croft@monash.edu  
+Dr Mohammad Shahbazy: mohammad.shahbazy@monash.edu
 
-chen.li@monash.edu
+Dr Nathan Croft: nathan.croft@monash.edu  
+
+Dr Chen Li: chen.li@monash.edu
 
 
 *Please cite*
