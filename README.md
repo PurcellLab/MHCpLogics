@@ -18,7 +18,7 @@ Dr Chen Li: chen.li@monash.edu
 
 ***Please cite***
 
-Mohammad Shahbazy, Sri H. Ramarathinam, Chen Li, Patricia T. Illing, Pouya Faridi, Nathan P. Croft, and Anthony W. Purcell (2023) MHCpLogics: an interactive machine learning-based tool for unsupervised data visualization and cluster analysis of immunopeptidomes. bioRxiv.
+Mohammad Shahbazy, Sri H. Ramarathinam, Chen Li, Patricia T. Illing, Pouya Faridi, Nathan P. Croft, and Anthony W. Purcell (2023) MHCpLogics: an interactive machine learning-based tool for unsupervised data visualization and cluster analysis of immunopeptidomes.
 
 
 ***Instructions***
