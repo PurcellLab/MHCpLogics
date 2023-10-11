@@ -1,9 +1,27 @@
 # MHCpLogics 
 
-**MHCpLogics version 1.0 (May 2023)**
+**MHCpLogics version 1.0 (Sep 2023)**
 
 ***ABSTRACT***
-The major histocompatibility complex (MHC) encodes a range of immune response genes, including the human leukocyte antigens (HLAs) in humans; moelcules that bind peptide antigens and present them on the cell surface for T cell recognition. The repertoire of peptides presented by HLA molecules are termed immunopeptidomes. The highly-polymorphic nature of HLA confers allele-specific differences in the sequences of HLA-bound ligands designated as peptide-binding motifs. Individuals express up to six classical class I HLA allotypes, which likely present peptides displaying different sequence motifs, making the analysis of immunopeptidomic data challenging. There are few analytical tools to visualize and define allotype-specific contributions to these complex immunopeptidomes. Herein, we developed MHCpLogics an interactive machine learning-based tool for mining peptide-binding sequence motifs and visualization for immunopeptidome data across complex datasets. We showcased the functionalities of MHCpLogics by analyzing both in-house and published mono- and multi-allelic immunopeptidomics data. The visualization modalities of MHCpLogics allow users to inspect clustered sequences down to individual peptide components and to examine broader sequence patterns within multiple immunopeptidome data sets. MHCpLogics can deconvolute large mass spectrometry (MS)-based immunopeptidome data enabling the interrogation of clusters for the segregation of allotype-specific peptide sequence motifs, identification of sub-peptidome motifs, the exportation of clustered peptide sequence lists, and the allocation of HLA allotypes for untyped samples. The tool will be a valuable asset to the immunology community, facilitating rapid inspection of immunopeptidomes. MHCpLogics is a standalone application that is available via an installation executable code at: https://github.com/PurcellLab/MHCpLogics.
+The major histocompatibility complex (MHC) encodes a range of immune response genes, including
+the human leukocyte antigens (HLAs) in humans. These molecules bind peptide antigens and present
+them on the cell surface for T cell recognition. The repertoires of peptides presented by HLA molecules
+are termed immunopeptidomes. The highly polymorphic nature of the genres that encode the HLA
+molecules confers allotype-specific differences in the sequences of bound ligands. Allotype-specific
+ligand preferences are often defined by peptide-binding motifs. Individuals express up to six classical
+class I HLA allotypes, which likely present peptides displaying different binding motifs. Such complex
+datasets make the deconvolution of immunopeptidomic data into allotype-specific contributions and
+further dissection of binding-specificities challenging. Herein, we developed MHCpLogics as an
+interactive machine learning-based tool for mining peptide-binding sequence motifs and visualization
+of immunopeptidome data across complex datasets. We showcase the functionalities of MHCpLogics
+by analyzing both in-house and published mono- and multi-allelic immunopeptidomics data. The
+visualization modalities of MHCpLogics allow users to inspect clustered sequences down to individual
+peptide components and to examine broader sequence patterns within multiple immunopeptidome data
+sets. MHCpLogics can deconvolute large immunopeptidome data sets enabling the interrogation of
+clusters for the segregation of allotype-specific peptide sequence motifs, identification of sub-peptidome
+motifs, and the exportation of clustered peptide sequence lists. The tool facilitates rapid inspection of
+immunopeptidomes as a resource for the immunology and vaccine communities. MHCpLogics is a
+standalone application available via an executable installation at: https://github.com/PurcellLab/MHCpLogics.
 
 
 ***Contact***
