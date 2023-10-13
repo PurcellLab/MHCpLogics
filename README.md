@@ -1,6 +1,7 @@
 # MHCpLogics 
-
 **MHCpLogics version 1.0 (Sep 2023)**
+
+**MHCpLogics: an interactive machine learning-based tool for unsupervised data visualization and cluster analysis of immunopeptidomes**
 
 ***ABSTRACT***
 The major histocompatibility complex (MHC) encodes a range of immune response genes, including
