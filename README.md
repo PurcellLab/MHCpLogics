@@ -24,6 +24,8 @@ motifs, and the exportation of clustered peptide sequence lists. The tool facili
 immunopeptidomes as a resource for the immunology and vaccine communities. MHCpLogics is a
 standalone application available via an executable installation at: https://github.com/PurcellLab/MHCpLogics.
 
+***Keywords:*** Major histocompatibility complex; Human leukocyte antigens; Immunopeptidomics; Unsupervised machine learning; Data visualization; HLA peptide ligands.
+
 ***Key Points:***
 
 * MHCpLogics enables unsupervised analysis of HLA peptide ligands with the flexibility to use
