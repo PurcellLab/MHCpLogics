@@ -25,11 +25,12 @@ immunopeptidomes as a resource for the immunology and vaccine communities. MHCpL
 standalone application available via an executable installation at: https://github.com/PurcellLab/MHCpLogics.
 
 ***Key Points:***
-“*”MHCpLogics enables unsupervised analysis of HLA peptide ligands with the flexibility to use
+
+“*”  MHCpLogics enables unsupervised analysis of HLA peptide ligands with the flexibility to use
 different machine-learning algorithms.
-“*”An interactive and new visualization tool for immunopeptidomics data.
-“*”Rapid cluster analysis of immunopeptidomes into allotype-specific motifs and sub-motifs.
-“*”Multi-data comparative analysis aids antigen discovery across multiple datasets.
+“*”  An interactive and new visualization tool for immunopeptidomics data.
+“*”  Rapid cluster analysis of immunopeptidomes into allotype-specific motifs and sub-motifs.
+“*”  Multi-data comparative analysis aids antigen discovery across multiple datasets.
 
 
 
