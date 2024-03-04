@@ -37,7 +37,7 @@ different machine-learning algorithms.
 
 
 ***Contact***
-For technical support or any question, please send an email to the following developers:
+For technical support or any questions, please send an email to the following developers:
 
 Mohammad Shahbazy: mohammad.shahbazy@monash.edu 
 
@@ -48,7 +48,8 @@ Dr Chen Li: chen.li@monash.edu
 
 ***Please cite***
 
-Mohammad Shahbazy, Sri H. Ramarathinam, Chen Li, Patricia T. Illing, Pouya Faridi, Nathan P. Croft, and Anthony W. Purcell (2023) MHCpLogics: an interactive machine learning-based tool for unsupervised data visualization and cluster analysis of immunopeptidomes.
+Mohammad Shahbazy, Sri H. Ramarathinam, Chen Li, Patricia T. Illing, Pouya Faridi, Nathan P. Croft, and Anthony W. Purcell (2024) MHCpLogics: an interactive machine learning-based tool for unsupervised data visualization and cluster analysis of immunopeptidomes.
+Accepted for publication in Briefings in Bioinformatics (DOI: https://doi.org/10.1093/bib/bbae087)
 
 
 ***Instructions***
