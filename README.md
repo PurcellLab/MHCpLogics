@@ -39,7 +39,7 @@ different machine-learning algorithms.
 ***Contact***
 For technical support or any questions, please send an email to the following developers:
 
-Mohammad Shahbazy: mohammad.shahbazy@monash.edu 
+Dr Mohammad Shahbazy: mohammad.shahbazy@monash.edu 
 
 Dr Nathan Croft: nathan.croft@monash.edu   
 
